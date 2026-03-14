@@ -1,0 +1,22 @@
+selenium webderiver - 
+1. what is webderiver -> webdriver is one of the component in selenium , webderiver is als o a module . module contains various number of classes
+
+ firefox---> frefox()
+ chrome browser --> chrome()
+ edge ---> Edge ()
+
+
+ webdriver is an API (application programming interface)
+
+
+
+
+
+
+
+
+
+
+
+ 
+
