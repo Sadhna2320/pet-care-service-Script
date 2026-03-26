@@ -65,4 +65,4 @@ else:
 
 time.sleep(5)
 #display dashboard now click on profile icon
-driver.find_element(By.XPATH,"//*[@id='root']/header[2]/div[2]/div[3]/svg").click()
+
